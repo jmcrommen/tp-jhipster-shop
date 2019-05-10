@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "fr.chocolateroad.shop",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.0.0",
+    "applicationType": "microservice",
+    "baseName": "shop",
+    "packageName": "fr.chocolateroad.shop",
+    "packageFolder": "fr/chocolateroad/shop",
+    "serverPort": "8081",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ZGUwM2IzZWFiOTY5ODczMTE5NzRhZGM1N2JlM2I3ZjU2ZDc4YWJlOTg0ZWNkNjUwMGEzMTg3N2E1ZDZjMWZmMjBhOGEzZDI3MzUzOTdlNDQ0YzNjMzY3NTM2ZDAyZjM2MDQyYjgyYjk0NTlkYmQ1MDM4NzNhMzliNzNhYThlMTk=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "fr",
+    "languages": [
+      "fr",
+      "en"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
